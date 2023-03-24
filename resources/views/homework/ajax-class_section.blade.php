@@ -1,0 +1,1 @@
+  <option value='{{$classwork->section_id}}'>All</option>

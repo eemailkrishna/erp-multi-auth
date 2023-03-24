@@ -1,0 +1,23 @@
+[12-Oct-2022 08:58:59 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 14
+[12-Oct-2022 08:59:32 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 14
+[12-Oct-2022 09:27:03 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 14
+[12-Oct-2022 09:29:16 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 14
+[12-Oct-2022 10:03:54 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:04:22 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:04:46 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:05:28 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:06:43 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:06:57 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:07:18 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:07:36 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:07:53 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 15
+[12-Oct-2022 10:08:34 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 18
+[12-Oct-2022 10:08:54 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 19
+[12-Oct-2022 10:08:59 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 19
+[12-Oct-2022 10:09:24 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 19
+[12-Oct-2022 10:09:29 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 19
+[12-Oct-2022 10:21:40 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 19
+[12-Oct-2022 10:22:06 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 19
+[12-Oct-2022 10:22:27 UTC] PHP Fatal error:  Cannot use positional argument after named argument in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/LoginController.php on line 19
+[13-Oct-2022 06:23:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AuthController::login() in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/AuthController.php on line 77
+[15-Oct-2022 07:38:47 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home/kpgpd1sy35me/public_html/sfa-admin/app/Http/Controllers/HomeController.php on line 9
